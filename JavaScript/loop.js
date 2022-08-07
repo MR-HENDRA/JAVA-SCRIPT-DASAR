@@ -60,3 +60,40 @@ Marwati
 Tahang
 Sitti
 */
+
+// 3. WHILE LOOP
+
+// Untuk menampilkan angka 1 sampai 100 dengan while kita bisa menulis kode seperti berikut:
+
+let i = 1;
+while (i <= 100) {
+  console.log(i);
+  i++;
+}
+/*
+OUTPUT:
+1
+2
+3
+...
+100
+*/
+
+// 4. DO-WHILE LOOP
+
+// Kita bisa menulis kode seperti berikut:
+let i2 = 1;
+do {
+  console.log(i2);
+  i2++;
+} while (i2 <= 100);
+
+/*
+OUTPUT:
+1
+2
+3
+...
+100
+*/
+

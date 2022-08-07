@@ -34,14 +34,11 @@ function scoreChecker(score) {
   } else {
     result = 'Anda mendapatkan nilai E.';
   }
-
-  // Jangan hapus kode ini
   return result;
 }
 
-console.log(scoreChecker(78));
+console.log(scoreChecker(99)); // nilai misal
+/* output:
+Selamat! Anda mendapatkan nilai A.
+*/
 
-/**
- * Jangan hapus kode di bawah ini
- */
-// module.exports = scoreChecker;
