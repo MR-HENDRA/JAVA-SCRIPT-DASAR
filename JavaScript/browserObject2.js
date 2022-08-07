@@ -14,7 +14,7 @@ if (user.language === 'English') {
   alert('Nice to meet you ' + user.name.first + ' ' + user.name.last + '!');
 } else if (user.language === 'French') {
   alert('Ravi de vous recontrer ' + user.name.first + ' ' + user.name.last + '!');
-} else if (user.language === 'Japenese') {
+} else if (user.language === 'Japanese') {
   alert('Hajimemashite, ' + user.name.first + ' ' + user.name.last + '!');
 } else {
   alert('Senang Bertemu dengan Anda!');

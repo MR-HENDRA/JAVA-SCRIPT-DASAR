@@ -37,3 +37,6 @@ if (language2 === 'English') {
 }
 
 console.log(greeting2);
+/* OUTPUT:
+Bonjour!
+*/

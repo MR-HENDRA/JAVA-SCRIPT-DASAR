@@ -1,9 +1,9 @@
 alert("terimakasih telah mengunjungi website kami");
 
-// ini merupakan komentar satu baris komentar
-// alert("Terima kasih")
+/* INSTRUKSI DALAM JAVASCRIPT:
 
-/* Ini merupakan komentar dengan lebih dari satu baris
-Teks apapun yang berada disini akan dijadikan komentar.
-Ketika menggunakan ini, jangan lupa untuk menutupnya.
+1. Expression : Unit kode yg dapat dievaluasi menjadi suatu nilai.
+2. Statement : Instruksi untuk melakukan sebuah aksi tertentu. Aksi ini bisa termasuk membuat variabel,
+melakukan perulangan, pengecekan kondisi, dll.
+
 */
